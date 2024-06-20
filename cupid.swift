@@ -1,0 +1,5 @@
+Text("Center")
+    .font(.title)
+    .border(.gray)
+    .frame(maxWidth: .infinity, maxHeight: .infinity)
+    .multilineTextAlignment(.center)
